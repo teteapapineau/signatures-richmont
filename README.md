@@ -1,13 +1,11 @@
-# Signatures courriel — Îlot Notre-Dame
+# Signatures courriel — Richmont Immobilier
 
-Images des signatures courriel de l'équipe Îlot Notre-Dame (Richmont),
-servies par jsDelivr :
+Images des signatures courriel de l'équipe Richmont, servies par jsDelivr :
 
-    https://cdn.jsdelivr.net/gh/teteapapineau/signatures-ilot-notre-dame@main/assets/<fichier>
+    https://cdn.jsdelivr.net/gh/teteapapineau/signatures-richmont@main/assets/<fichier>
 
 - `<prenom-nom>_rond.png` : portrait rond, 400 px, affiché à 104 px
-- `ilot_logo.png` : logo secondaire du guide de marque, affiché à 96 × 52 px
-- `soc_*_sable.png` : icônes Facebook et Instagram, affichées à 24 px
+- `richmont_logo.png` : logo Richmont 2024 (bleu marine), affiché à 104 × 53 px
 
 Ne pas renommer ni déplacer ces fichiers : les signatures déjà installées
 pointent sur ces adresses. Pour remplacer une photo, garder le même nom.
